@@ -1,5 +1,6 @@
 # LINK TO DEPLOY :
 https://crypto-tracker-red.vercel.app/
+![image](https://github.com/anandprabhat15/Crypto-Tracker/assets/101540709/451da6eb-cd1b-4992-8053-81787e031475)
 
 
 
